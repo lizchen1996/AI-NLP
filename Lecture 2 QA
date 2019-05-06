@@ -1,0 +1,43 @@
+Assignment-02  Q & A
+
+1.	How to use GitHub ,Jupyter and Pycharm.
+A: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+Jupyter: open Anacanda, and launch Jupyter
+Pycharm: https://www.jetbrains.com/help/pycharm/basic-tutorials.html
+
+2.	What's  the Probability Model ?
+A: A probability model is a mathematical representation of a random phenomenon. It is defined by its sample space, events within the sample space, and probabilities associated with each event.
+
+3.	Can you came up with some some sceneraies at we could use Probability Model?
+A:Make decisions, you need to consider all kinds of probabilities.
+
+4.	Why do we use probability and what's the difficult points for programming based on parsing and pattern match ?
+A: 
+
+5.	What's the Language Model ?
+A: From Wikipedia, the free encyclopedia. A statistical language model is a probability distribution over sequences of words. Given such a sequence, say of length m, it assigns a probability to the whole sequence. The language model provides context to distinguish between words and phrases that sound similar.
+
+6.	Can you came up with some sceneraies at which we could use Language Model?
+A: 1. AI waiters, intercom communication chatter robot, etc.
+
+7.	What's the 1-gram language model ?
+A: n-gram models are widely used in statistical natural language processing. In speech recognition, phonemes and sequences of phonemes are modeled using a n-gramdistribution. For parsing, words are modeled such that each n-gram is composed ofn words.
+
+8.	What's the disadvantages and advantages of 1-gram language model ?
+A: Advantages: easy to learn
+Disadvantages: time-consuming , hard-processing
+
+9.	What's the 2-gram models ?
+A: combine two 1-gram models
+
+10.	What's the web crawler,and can you implement a simple crawler ?
+A: https://www.youtube.com/watch?v=nRW90GASSXE
+
+11.	There may be some issues to make our crawler programming difficult,what are these,and how to solve them ?
+A: 
+
+12.	What's the Regular Expression and how to use ? 
+A: A regular expression, regex or regexp (sometimes called a rational expression) is a sequence of characters that define a search pattern.
+
+
+
