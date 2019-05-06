@@ -1,0 +1,25 @@
+PS: This is the first edtion of answer, I will complement it later.
+
+Why do we need dynamic programming? What's the difference of dynamic programming and previous talked searchproblme?
+Answer： 
+a)  Cause we need to solve something about computing, which is not the advantages of human, but computer is ,and reasonal. b) the difference between dynamic programming and previous talked search problem is that the former one is fixed compared with the later one.
+
+Why do we still need dynamic programming? Why not we train a machine learning to fit a function which could get the right answer based on inputs?
+Answer：
+it is practical and economical .getting correct answer isn't the goal of machine learning ,what we need ML to do is building reasonable approach to close the truth, rather than correct.
+
+Can you catch up at least 3 problems which could solved by Dynamic Programming?
+Answer：
+Let me to think about real situations, program the way of public transportation ,  social relationships network, the closest way of several dots.
+
+Please summarize the three main features of Dynamic Programming, and make a concise explain for each feature.
+Answer：
+ 	It builds on previous subproblems
+ 	It only calculates enough subproblems to get the next step (DP is process of global optimization ,which means it would cover all kinds of possible solutions.
+ 	Decisions of subproblems are not based on decisions in previous subproblems
+  
+What's the disadvantages of Dynamic Programming? (You may need search by yourself in Internet)
+Answer：
+ 	No available general formation of DP, each subproblems has to be solved on its way.
+ 	Dividing problem in subproblems and storing inter mediate results is memory-consuming
+
