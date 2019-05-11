@@ -1,0 +1,4 @@
+# what is BFS ?
+# Breadth-first search (BFS) is an algorithm used for traversing graph data structures. In other words,  BFS implements a specific strategy for visiting all the nodes (vertices) of a graph – more on graphs in a while. What is this exploration strategy? It’s very simple and effective. BFS starts with a node, then it checks the neighbours of the initial node, then the neighbours of the neighbours, and so on. In case you didn’t recall it, two vertices are ‘neighbours’ if they are connected with an edge.
+# reference : https://pythoninwonderland.wordpress.com/2017/03/18/how-to-implement-breadth-first-search-in-python/
+
